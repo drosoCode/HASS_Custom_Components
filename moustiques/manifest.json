@@ -1,0 +1,10 @@
+{
+  "domain": "moustiques",
+  "name": "Moustiques",
+  "documentation": "http://google.com",
+  "requirements": [
+    "requests"
+  ],
+  "dependencies": [],
+  "codeowners": []
+}

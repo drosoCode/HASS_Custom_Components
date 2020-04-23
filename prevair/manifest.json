@@ -1,0 +1,10 @@
+{
+  "domain": "prevair",
+  "name": "Prevair",
+  "documentation": "http://google.com",
+  "requirements": [
+    "requests"
+  ],
+  "dependencies": [],
+  "codeowners": []
+}

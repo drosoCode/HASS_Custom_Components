@@ -1,0 +1,11 @@
+{
+  "domain": "brother",
+  "name": "Brother",
+  "documentation": "http://google.com",
+  "requirements": [
+    "bs4",
+    "requests"
+  ],
+  "dependencies": [],
+  "codeowners": []
+}

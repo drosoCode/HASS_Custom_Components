@@ -1,0 +1,10 @@
+{
+  "domain": "pollens",
+  "name": "Pollens",
+  "documentation": "http://google.com",
+  "requirements": [
+    "requests"
+  ],
+  "dependencies": [],
+  "codeowners": []
+}

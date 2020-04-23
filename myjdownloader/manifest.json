@@ -1,0 +1,11 @@
+{
+  "domain": "myjdownloader",
+  "name": "MyJdownloader",
+  "documentation": "http://google.com",
+  "requirements": [
+    "requests",
+    "cryptography"
+  ],
+  "dependencies": [],
+  "codeowners": []
+}

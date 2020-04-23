@@ -1,0 +1,10 @@
+{
+  "domain": "urlplayer",
+  "name": "urlPlayer",
+  "documentation": "http://google.com",
+  "requirements": [
+    "requests"
+  ],
+  "dependencies": [],
+  "codeowners": []
+}

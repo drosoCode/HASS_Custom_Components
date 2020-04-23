@@ -1,0 +1,10 @@
+{
+  "domain": "karotz",
+  "name": "Karotz",
+  "documentation": "google.com",
+  "requirements": [
+    "requests"
+  ],
+  "dependencies": [],
+  "codeowners": []
+}

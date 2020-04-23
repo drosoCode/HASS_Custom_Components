@@ -1,0 +1,11 @@
+{
+  "domain": "vigilance",
+  "name": "Vigilance",
+  "documentation": "http://google.com",
+  "requirements": [
+    "requests",
+    "xmltodict"
+  ],
+  "dependencies": [],
+  "codeowners": []
+}

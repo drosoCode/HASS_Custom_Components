@@ -1,0 +1,10 @@
+{
+  "domain": "nabaztag",
+  "name": "Serverless Nabaztag:tag",
+  "documentation": "google.com",
+  "requirements": [
+    "requests"
+  ],
+  "dependencies": [],
+  "codeowners": []
+}
